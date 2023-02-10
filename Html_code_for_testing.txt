@@ -1,0 +1,12 @@
+<head>
+
+<title> New Web Page </title>
+
+</head>
+<body>
+
+<h1 id="h1">Hello</h1>
+<button onclick="lw()">Click me</button>
+<button onclick="table()">Table</button>
+
+</body>

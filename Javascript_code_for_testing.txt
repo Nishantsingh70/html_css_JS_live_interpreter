@@ -1,0 +1,15 @@
+function lw(){
+   var x = document.getElementById("h1");
+   x.innerHTML = "nishant";
+}
+
+function table(){
+const cars = ["BMW", "Volvo", "Saab", "Ford", "Fiat", "Audi"];
+
+let text = "";
+for (let i = 0; i < cars.length; i++) {
+  text += cars[i] + "<br>";
+}
+
+document.getElementById("h1").innerHTML = text;
+}
